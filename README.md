@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧅 TorSwitch v2.0
+#  TorSwitch v2.0
 
 **Transparent Tor proxy toggle and system-wide anonymity manager for Kali / Debian systems.**
 
@@ -79,10 +79,7 @@ sudo torswitch recover
 * Debian-based Linux distribution (**Kali Linux**, **Debian**, **Ubuntu**).
 * `tor` and `iptables` (automatically installed by the script if missing).
 
-## 👨‍💻 Author
+
 
 Developed by **Ox-abdellah**.
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
